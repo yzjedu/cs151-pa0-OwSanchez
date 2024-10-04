@@ -49,5 +49,6 @@
     - **YES-NO**
 
 ### Comments on the grading
-- There is nothing to grade here
-### Grade: N
+- There is no python file to grade here
+- There is not client satisfaction document
+### Grade: R
